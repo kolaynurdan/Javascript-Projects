@@ -1,0 +1,19 @@
+#div{
+    height: 200px;
+    float: right;
+}
+
+#ul{
+    padding-right:50px;
+    overflow:hidden;
+    overflow-y:scroll;
+}
+
+#h1{
+    color:black;
+    font-family: 'helvetica Neue','sans-serif';
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+    text-decoration: underline;
+}
